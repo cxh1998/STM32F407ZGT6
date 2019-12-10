@@ -1,0 +1,17 @@
+#*.sct
+#*.o
+#*.lst
+#*.lnp
+#*.map
+#*.iex
+#*.hex
+#*.dep
+#*.d
+#*.crf
+#*.htm
+#*.axf
+#*.dbgconf
+#*.ZX
+/output/
+/Application/DebugConfig/
+STM32F407ZGT6.uvguix.ZX
